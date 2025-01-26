@@ -10,8 +10,8 @@ The original game featured eight weapons, designed so that no weapon became obso
 
 The development of the original Doom started in 1992, when John Carmack developed a new game engine, the Doom engine, while the rest of the id Software team finished the Wolfenstein 3D prequel, Spear of Destiny. The game launched in an episodic format in 1993, with the first episode available as shareware and two more episodes available by mail order. The first episode was largely designed by John Romero.[10] The title proved extremely popular, with the full version of the game selling one million copies. The term "Doom clone" became the name for new genre now known as first-person shooters for several years.[11]
 
-[](doom1.jpg)
-[](doom2.jpg)
+[Image1](doom1.jpg)
+[Image2](doom2.jpg)
 
 [DOOM](https://en.wikipedia.org/wiki/Doom_(franchise))
 [John Romero](https://en.wikipedia.org/wiki/John_Romero)
